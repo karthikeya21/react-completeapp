@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+FR+Moderne:wght@100..400&display=swap');
+
+nav{
+    font-family: "Playwrite FR Moderne", cursive;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  background-image: linear-gradient(#94989A,#94989A);
+  box-shadow: 1px -1px ;
+}
+.user-icons{
+    font-size: 1.5rem;
+    margin-right: 4px;
+}

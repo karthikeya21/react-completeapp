@@ -1,0 +1,11 @@
+
+.name{
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+.profile-image{
+    border-radius: 50%;
+    max-width: 300px;
+    width: 100%;
+}

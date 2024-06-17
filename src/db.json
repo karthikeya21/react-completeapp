@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "name": "Bondili Bala Karthikeya Sing",
+      "email": "b.karthik2107@gmail.com",
+      "dob": "2024-06-06",
+      "id": "e111"
+    },
+    {
+      "id": "51e5",
+      "name": "Bondili Bala Karthikeya Singh",
+      "email": "b.karthik2107@gmail.com",
+      "dob": "2024-06-07"
+    }
+  ],
+  "removedUsers": []
+}
